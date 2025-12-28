@@ -1,0 +1,7 @@
+1. Online Grievance Management System
+
+Developed a web-based platform to register and track user grievances efficiently. Implemented modules for investigation, appeal, resolution, and feedback with role-based access. Integrated database for status updates and audit trail, ensuring transparency and faster issue resolution.
+
+2. Smart Library Management System
+
+Built a system to manage books, members, and borrowing operations. Features include book search, issue/return tracking, fines calculation, and admin dashboard. Optimized database queries and automated notifications for due dates to enhance usability.
