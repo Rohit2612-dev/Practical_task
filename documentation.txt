@@ -5,3 +5,7 @@ Developed a web-based platform to register and track user grievances efficiently
 2. Smart Library Management System
 
 Built a system to manage books, members, and borrowing operations. Features include book search, issue/return tracking, fines calculation, and admin dashboard. Optimized database queries and automated notifications for due dates to enhance usability.
+
+3. Sales Data Analytics Dashboard
+
+Created an interactive analytics dashboard to visualize sales trends and business insights. Processed large datasets, implemented filtering, sorting, and KPI metrics. Helped in data-driven decision making through charts, reports, and trend forecasting.
